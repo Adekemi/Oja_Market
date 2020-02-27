@@ -8129,7 +8129,7 @@ h1, h2, h3, h4, h5,
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
         color: #fff;
-        background: #82ae46; } }
+        background: rgb(250, 102, 48) } }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
     color: #000000; }
     @media (max-width: 991.98px) {
@@ -8947,8 +8947,8 @@ h1, h2, h3, h4, h5,
       padding: 4px 10px;
       color: #000000; }
       .table tbody tr td.product-remove a:hover {
-        border: 1px solid #82ae46;
-        background: #82ae46; }
+        border: 1px solid rgb(250, 102, 48);
+        background: rgb(250, 102, 48); }
         .table tbody tr td.product-remove a:hover span {
           color: #fff; }
     .table tbody tr td.quantity {
